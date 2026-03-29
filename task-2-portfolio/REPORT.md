@@ -1,0 +1,5 @@
+# Task 2: Digital Portfolio Report
+
+For this task, I have established my professional digital presence across three key platforms: GitHub, LinkedIn, and Kaggle. I chose GitHub because it is the essential home for my code and version control, allowing me to showcase my technical projects. LinkedIn was chosen to build a professional network and document my academic milestones. Finally, I selected Kaggle to explore data science and participate in coding competitions.
+
+Over the next four years of my Computer Science degree, I plan to use these platforms strategically. I will use GitHub to document my growth as a developer by regularly committing code for university assignments and personal projects. On LinkedIn, I plan to connect with industry professionals to stay updated on internship opportunities. Kaggle will serve as a learning ground where I can apply my Python skills to real-world datasets. By maintaining these profiles consistently, I aim to graduate with a robust, professional digital footprint that demonstrates both my technical expertise and my commitment to continuous learning in the field of software development.
