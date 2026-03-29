@@ -1,2 +1,9 @@
-# Digital-Literacy-Assignment
-Digital Literacy Assignment: Infographic and Project Report covering essential digital tools, safety, and online presence.
+---
+
+##  Task 1: Digital Literacy Infographic
+
+Click the link below to read the full project report:
+ **[View Project Report](./task-1-presentation/REPORT.md)**
+
+### Preview:
+![Digital Literacy Infographic](./task-1-presentation/infographic.png)
