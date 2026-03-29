@@ -1,6 +1,6 @@
 ---
 
-##  Task 1: Digital Literacy Infographic
+## Digital Literacy Infographic
 
 Click the link below to read the full project report:
  **[View Project Report](./task-1-presentation/REPORT.md)**
