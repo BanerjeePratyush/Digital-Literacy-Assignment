@@ -1,5 +1,0 @@
-For Task 3, I explored platforms for coding practice and cloud collaboration. I chose HackerRank for the coding practice portion, where I successfully completed the "Python If-Else" challenge. This platform is an excellent resource for building logical thinking and becoming comfortable with Python's syntax and indentation requirements in a competitive environment.
-
-In the collaboration section, I used Google Workspace to create a "Digital Literacy Awareness Quiz" via Google Forms. I also linked this form to a Google Sheet to demonstrate how real-time data collection and response tracking work in a cloud environment. Academically, these tools are highly beneficial. HackerRank allows me to prepare for technical interviews, while Google Workspace tools enable efficient collaboration on group assignments and research. Mastering these platforms helps me manage both individual technical growth and professional team-based workflows, which are essential skills for a student and a future developer.
-
-
